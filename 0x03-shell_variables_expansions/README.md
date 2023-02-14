@@ -61,7 +61,7 @@ How to do command substitution with $() and backticks
 
 How to perform arithmetic operations with the shell
 
-### The ```diff - alias in red ``` Command
+### The <span style="color: green"> alias </span> Command
 
 How to create an alias
 
